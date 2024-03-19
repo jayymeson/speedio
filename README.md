@@ -89,7 +89,7 @@ Link para baixar: https://insomnia.rest/download
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/mongodb-2496ED?style=for-the-badge&logo=mongodb&logoColor=green">
 
 
-## Autor(es) 👨🏼‍💻👨🏼‍💻👨🏼‍💻👨🏼‍💻
+## Autor 👨🏼‍💻
 
 | [<img src="https://avatars.githubusercontent.com/u/100086459?v=4" width=115><br><sub>Jaymeson Mendes</sub>](https://github.com/jayymeson)
 |
